@@ -1,4 +1,9 @@
----
+---ff
+macro
+todo
+rojo
+quto
+apuntado 
 manufacturer:
     - general
 ---
